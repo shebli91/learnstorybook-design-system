@@ -1,0 +1,4 @@
+yarn add v1.22.19
+error An unexpected error occurred: "Invalid value type 1775:0 in C:\\Users\\nnu\\Desktop\\Learnings\\React\\learnstorybook-design-system\\yarn.lock".
+info If you think this is a bug, please open a bug report with the information provided in "C:\\Users\\nnu\\Desktop\\Learnings\\React\\learnstorybook-design-system\\yarn-error.log".
+info Visit https://yarnpkg.com/en/docs/cli/add for documentation about this command.
